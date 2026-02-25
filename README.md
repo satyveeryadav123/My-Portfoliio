@@ -37,7 +37,7 @@ It showcases my skills, projects, and contact information in a clean and modern 
 
 ## 🔗 Live Demo
 
-👉 [View Portfolio](https://satyveeryadav123.github.io/My-Portfolio/)
+👉 [View Portfolio](https://satyveeryadav123.github.io/My-Portfoliio/)
 
 ---
 
